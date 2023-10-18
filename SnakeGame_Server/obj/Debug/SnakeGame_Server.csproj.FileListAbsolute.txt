@@ -1,0 +1,10 @@
+C:\Users\PC Master User\Desktop\SnakeGame\SnakeGame_Server\bin\Debug\SnakeGame_Server.exe.config
+C:\Users\PC Master User\Desktop\SnakeGame\SnakeGame_Server\bin\Debug\SnakeGame_Server.exe
+C:\Users\PC Master User\Desktop\SnakeGame\SnakeGame_Server\bin\Debug\SnakeGame_Server.pdb
+C:\Users\PC Master User\Desktop\SnakeGame\SnakeGame_Server\obj\Debug\SnakeGame_Server.csprojAssemblyReference.cache
+C:\Users\PC Master User\Desktop\SnakeGame\SnakeGame_Server\obj\Debug\SnakeGame_Server.FrmServer.resources
+C:\Users\PC Master User\Desktop\SnakeGame\SnakeGame_Server\obj\Debug\SnakeGame_Server.Properties.Resources.resources
+C:\Users\PC Master User\Desktop\SnakeGame\SnakeGame_Server\obj\Debug\SnakeGame_Server.csproj.GenerateResource.cache
+C:\Users\PC Master User\Desktop\SnakeGame\SnakeGame_Server\obj\Debug\SnakeGame_Server.csproj.CoreCompileInputs.cache
+C:\Users\PC Master User\Desktop\SnakeGame\SnakeGame_Server\obj\Debug\SnakeGame_Server.exe
+C:\Users\PC Master User\Desktop\SnakeGame\SnakeGame_Server\obj\Debug\SnakeGame_Server.pdb
